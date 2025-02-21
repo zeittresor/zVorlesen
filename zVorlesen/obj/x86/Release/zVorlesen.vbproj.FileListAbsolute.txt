@@ -1,0 +1,11 @@
+C:\Users\Spawn\documents\visual studio 2010\Projects\zVorlesen\zVorlesen\obj\x86\Release\Interop.SpeechLib.dll
+C:\Users\Spawn\documents\visual studio 2010\Projects\zVorlesen\zVorlesen\obj\x86\Release\zVorlesen.vbproj.ResolveComReference.cache
+C:\Users\Spawn\documents\visual studio 2010\Projects\zVorlesen\zVorlesen\bin\Release\zVorlesen.exe
+C:\Users\Spawn\documents\visual studio 2010\Projects\zVorlesen\zVorlesen\bin\Release\zVorlesen.pdb
+C:\Users\Spawn\documents\visual studio 2010\Projects\zVorlesen\zVorlesen\bin\Release\zVorlesen.xml
+C:\Users\Spawn\documents\visual studio 2010\Projects\zVorlesen\zVorlesen\obj\x86\Release\zVorlesen.Form1.resources
+C:\Users\Spawn\documents\visual studio 2010\Projects\zVorlesen\zVorlesen\obj\x86\Release\zVorlesen.Resources.resources
+C:\Users\Spawn\documents\visual studio 2010\Projects\zVorlesen\zVorlesen\obj\x86\Release\zVorlesen.vbproj.GenerateResource.Cache
+C:\Users\Spawn\documents\visual studio 2010\Projects\zVorlesen\zVorlesen\obj\x86\Release\zVorlesen.exe
+C:\Users\Spawn\documents\visual studio 2010\Projects\zVorlesen\zVorlesen\obj\x86\Release\zVorlesen.xml
+C:\Users\Spawn\documents\visual studio 2010\Projects\zVorlesen\zVorlesen\obj\x86\Release\zVorlesen.pdb
